@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarfrazcodes/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarfrazcodes/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarfrazcodes/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarfrazcodes/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarfrazcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sarfrazcodes/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarfrazcodes/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -46,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarfrazcodes/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarfrazcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
