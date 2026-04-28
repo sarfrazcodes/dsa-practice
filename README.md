@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarfrazcodes/leetcode/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sarfrazcodes/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
 | ------- |
