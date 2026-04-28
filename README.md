@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarfrazcodes/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/sarfrazcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sarfrazcodes/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sarfrazcodes/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sarfrazcodes/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarfrazcodes/leetcode/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sarfrazcodes/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sarfrazcodes/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarfrazcodes/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarfrazcodes/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarfrazcodes/leetcode/tree/master/0242-valid-anagram) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sarfrazcodes/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
