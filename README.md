@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarfrazcodes/leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarfrazcodes/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sarfrazcodes/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sarfrazcodes/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
