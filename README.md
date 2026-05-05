@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sarfrazcodes/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/sarfrazcodes/leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sarfrazcodes/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/sarfrazcodes/leetcode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
