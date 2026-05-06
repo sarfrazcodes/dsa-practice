@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sarfrazcodes/leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sarfrazcodes/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sarfrazcodes/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sarfrazcodes/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sarfrazcodes/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sarfrazcodes/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sarfrazcodes/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sarfrazcodes/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/sarfrazcodes/leetcode/tree/master/1122-relative-sort-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sarfrazcodes/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sarfrazcodes/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarfrazcodes/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sarfrazcodes/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/sarfrazcodes/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarfrazcodes/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
