@@ -9,7 +9,6 @@ public:
             rev = rev * 10 + rem;
             temp/=10;
         }
-        // if(x<0) return 0;
         return rev==x;
     }
 };
