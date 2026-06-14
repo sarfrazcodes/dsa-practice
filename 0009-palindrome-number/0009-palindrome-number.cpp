@@ -9,6 +9,7 @@ public:
             rev = rev * 10 + rem;
             temp/=10;
         }
-        return rev==x;
+        int ans = (rev==x)? 1:0;
+        return ans;
     }
 };
