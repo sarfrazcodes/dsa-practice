@@ -1,14 +1,13 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int n = nums.size();
-        for(int i=0;i<n-1;i++){
-            int min_index = i;
-            for(int j=i+1;j<n;j++){
-                if(nums.at(j)<nums.at(min_index)) 
-                min_index = j;
+       for(int i=0;i<nums.size();i++){
+        int min_index = nums[i];
+        for(int j=0;j<nums.size();j++){
+            if(nums[i]<nums[j]){
+                swap(nums[i],nums[j]);
             }
-            swap(nums[i],nums[min_index]);
         }
+       }
     }
 };
